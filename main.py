@@ -13,8 +13,8 @@ from Plot import plot
 if __name__ == '__main__':
 
     # 資料庫建立
-    User_ID = 'koko635241@yahoo.com.tw'         # FinMind 帳號
-    Password = 'Finmind072'                     # FinMind 密碼
+    User_ID = ''                                # FinMind 帳號
+    Password = ''                               # FinMind 密碼
     Get = Price(User_ID, Password, 3).Catch()   # 抓取股價資料
 
     # 資料清洗

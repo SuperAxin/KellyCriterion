@@ -68,8 +68,8 @@ class Price():
             print("查無資料")
 
 '''
-x = 'koko635241@yahoo.com.tw'
-y = 'Finmind072'
+x = ''
+y = ''
 Get = Price(x, y, 3)
 table = Get.Catch()'''
 
